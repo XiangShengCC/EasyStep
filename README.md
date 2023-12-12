@@ -28,3 +28,6 @@ easystep2須設定用戶使用資料
 第13、14、15行請使用您的使用者金鑰資訊  
 
 ### 資策會 EEIT71_JAVA跨域專班第三組 制
+
+成品演示影片 : https://www.youtube.com/watch?v=QPnrIOY0sJY
+時間軸在 53:00 - 1:25:00
